@@ -2,9 +2,12 @@
 title: About Me
 date: 2016-07-05 12:03:56
 ---
-I am Web Developer and majoring in Computer Science in the Federal University of Campina Grande(UFCG). I'm living in Campina Grande - Paraiba, I have 22 years old. I like to develop technologies to be used mainly by the end user.
 
-### Competences:
+# João Paulo Ribeiro
+
+Web Developer and majoring in Computer Science in the Federal University of Campina Grande(UFCG). I'm living in Campina Grande - Paraiba and I have 22 years old. I like to develop technologies to be used mainly by the end user.
+
+## Competences:
 - Languages
 	- Java
 	- Javascript / Node.js
