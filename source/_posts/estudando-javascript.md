@@ -9,7 +9,7 @@ tags:
 - learn
 ---
 
-Em Maio, o canal [Google Developers](https://www.youtube.com/user/GoogleDevelopers) publicou no Youtube uma [serie de videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIQorIS8gagUiMau9S84vZV) de um evento sobre Dart, o Dart Developer Summit 2015, entre os diversos videos sobre a nova linguagem de programação há um chamado "Moving from Node.js to Dart" que me chamou atenção, não pelo que mostrou sobre o Dart mas, pelo que mostrou sobre o Node.js que até então era um framework a qual eu desconhecia. Enquanto pesquisava sobre o Node.js, me interessei absurdamente pelo desenvolvimento web, pelas possibilidades e em especial pela capacidade de desenvolver toda uma aplicação web usando apenas uma linguagem de programação.
+Em Maio, o canal [Google Developers](https://www.youtube.com/user/GoogleDevelopers) publicou no Youtube uma [serie de videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIQorIS8gagUiMau9S84vZV) de um evento sobre Dart, o Dart Developer Summit 2015, entre os diversos videos sobre a nova linguagem de programação há um chamado "Moving from Node.js to Dart" que me chamou atenção, não pelo que mostrou sobre o Dart mas, pelo que mostrou sobre o Node.js que, até então, não conhecia. Enquanto pesquisava sobre o Node.js, me interessei absurdamente pelo desenvolvimento web, pelas possibilidades e em especial pela capacidade de desenvolver toda uma aplicação web usando apenas uma linguagem de programação.
 
 Atualmente, tenho estudado bastante sobre Javascript e a full-stack MEAN(MongoDB, Express.js, AngularJS e Node.js). Vou citar aqui alguns locais onde busco informações, exercicios e algumas ferramentas que uso no meu dia-a-dia para desenvolver e estudar.
 
@@ -64,4 +64,4 @@ Utilizo o editor de texto [Atom](https://atom.io/) e os plugins podem ser vistos
 
 Este é o meu primeiro post, espero que tenham gostado. ^^
 
-> Atualizado em 16 de junho de 2016
+> Atualizado em 6 de julho de 2016
