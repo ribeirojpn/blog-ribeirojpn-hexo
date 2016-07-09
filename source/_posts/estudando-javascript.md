@@ -7,6 +7,7 @@ categories:
 tags:
 - javascript
 - learn
+- dicas
 ---
 
 Em Maio, o canal [Google Developers](https://www.youtube.com/user/GoogleDevelopers) publicou no Youtube uma [serie de videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIQorIS8gagUiMau9S84vZV) de um evento sobre Dart, o Dart Developer Summit 2015, entre os diversos videos sobre a nova linguagem de programação há um chamado "Moving from Node.js to Dart" que me chamou atenção, não pelo que mostrou sobre o Dart mas, pelo que mostrou sobre o Node.js que, até então, não conhecia. Enquanto pesquisava sobre o Node.js, me interessei absurdamente pelo desenvolvimento web, pelas possibilidades e em especial pela capacidade de desenvolver toda uma aplicação web usando apenas uma linguagem de programação.
