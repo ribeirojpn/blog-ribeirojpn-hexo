@@ -14,9 +14,11 @@ Estes são os Podcasts e Weeklies que acompanho:
 - [DevNaEstrada](http://devnaestrada.com.br/)
 - [CodeNewbie](http://www.codenewbie.org/)
 - [JavaScript Jabber](https://devchat.tv/js-jabber)
+- [Lambda3](https://blog.lambda3.com.br/category/podcast/)
 
 Saindo um pouco do "escopo" de desenvolvimento:
 - [NerdCast](https://jovemnerd.com.br/nerdcast/)
+- [Matando Robôs Gigantes](https://jovemnerd.com.br/mrg/)
 
 ## Weeklies
 
