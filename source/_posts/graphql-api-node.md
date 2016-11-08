@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Basico de uma API com GraphQL e Node.js"
+title:  "Introdução ao GraphQL com Node.js"
 date:   2016-06-17 00:16:00
 categories:
 - graphq

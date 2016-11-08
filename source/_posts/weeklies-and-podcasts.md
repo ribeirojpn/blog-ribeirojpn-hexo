@@ -10,11 +10,12 @@ Estes são os Podcasts e Weeklies que acompanho:
 
 ## Podcasts
 
-- [Zone Of Front-Enders](http://zofe.com.br/)
 - [DevNaEstrada](http://devnaestrada.com.br/)
 - [CodeNewbie](http://www.codenewbie.org/)
-- [JavaScript Jabber](https://devchat.tv/js-jabber)
+- [Hipsters Ponto Tech](http://hipsters.tech/)
 - [Lambda3](https://blog.lambda3.com.br/category/podcast/)
+- [JavaScript Air](https://javascriptair.com/)
+- [Zone Of Front-Enders](http://zofe.com.br/)
 
 Saindo um pouco do "escopo" de desenvolvimento:
 - [NerdCast](https://jovemnerd.com.br/nerdcast/)
